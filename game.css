@@ -1,0 +1,37 @@
+body
+{
+	background: #7ab8f1;
+    background-image: mha.png.jpg;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(214, 168, 252);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(212, 255, 143);
+border-radius: 10px;
+border-top: 10px solid #ffa0be;
+padding: 10px;
+float: none;
+text-align: left;
+}
